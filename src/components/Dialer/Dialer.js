@@ -198,7 +198,8 @@ const Dialer = () => {
           sx={{ 
             bgcolor: 'transparent',
             p: 2,
-            borderRadius: 4
+            borderRadius: 4,
+            marginBottom: '70px'
           }}
         >
           <Grid container spacing={2} sx={{ mb: 2 }}>
